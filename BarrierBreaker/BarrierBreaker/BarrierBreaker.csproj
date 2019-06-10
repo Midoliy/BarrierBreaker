@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>2019.06.10.0</Version>
+    <Authors>Midoliy</Authors>
+    <Copyright>©2019 Midoliy</Copyright>
+    <PackageTags>dynamic;barrier;breaker;dp;expand;</PackageTags>
+    <PackageProjectUrl>https://github.com/Midoliy/BarrierBreaker</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
