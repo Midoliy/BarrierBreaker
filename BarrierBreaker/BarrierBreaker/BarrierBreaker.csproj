@@ -8,6 +8,7 @@
     <Copyright>©2019 Midoliy</Copyright>
     <PackageTags>dynamic;barrier;breaker;dp;expand;</PackageTags>
     <PackageProjectUrl>https://github.com/Midoliy/BarrierBreaker</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Midoliy/BarrierBreaker/master/icon/BarrierBreaker.png</PackageIconUrl>
   </PropertyGroup>
 
 </Project>
