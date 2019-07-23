@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>2019.06.10.0</Version>
+    <Version>2019.07.23.0</Version>
     <Authors>Midoliy</Authors>
     <Copyright>©2019 Midoliy</Copyright>
     <PackageTags>dynamic;barrier;breaker;dp;expand;</PackageTags>
